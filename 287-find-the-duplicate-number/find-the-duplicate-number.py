@@ -9,7 +9,7 @@ class Solution:
                 count[i] = 1
         for j in count:
             if count[j] > 1:
-                # ans = j
+                
                 return j
 
         
